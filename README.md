@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on **NFT Marketplace**
 
+- 🌱 I’m currently learning **DeFi Protocols**
+
 - 👯 I’m good in **Hyperledger Fabric,EOS,Ethereum,Smart Contracts**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [https://medium.com/@kaloliya/](https://medium.com/@kaloliya/)
 
 - 💬 Ask me about **Blockchain**
 
