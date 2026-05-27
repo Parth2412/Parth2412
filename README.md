@@ -1,7 +1,5 @@
 # Blockchain Architect · Backend Systems · Engineering Leadership
 
----
-
 7.5 years building production systems across DeFi, RWA tokenization, NFT infrastructure, and high-throughput backend platforms. I operate at the intersection of deep technical execution and engineering leadership — comfortable owning architecture decisions, leading teams, and shipping things that handle real transactions under real conditions.
  
 Currently at **Candour Technolabs** as a founding engineer, driving architecture and delivery across blockchain-enabled financial platforms.
